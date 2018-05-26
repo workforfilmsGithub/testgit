@@ -1,3 +1,1 @@
-import testing 
-
-test import
+print("hello")
